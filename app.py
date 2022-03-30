@@ -17,4 +17,4 @@ print("""Content-Type: text/html; charset=utf-8 \n\n
 	    }
 	  </script>
 	</head>
-	<body onload="userTime()"> Hello <p id="userTime"> </p> </body>""")
+	<body onload="userTime()"> Hello world <p id="userTime"> </p> </body>""")
